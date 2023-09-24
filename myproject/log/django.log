@@ -1,0 +1,7 @@
+Watching for file changes with StatReloader
+request: "index"
+"GET / HTTP/1.1" 200 123
+request: "about"
+"GET /about/ HTTP/1.1" 200 170
+request: "index"
+"GET / HTTP/1.1" 200 123
