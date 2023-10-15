@@ -1,4 +1,9 @@
 .idea
 .git
-Projects
 __pycache__
+*.log
+*.sqlite3
+*.pyc
+Projects
+/media/
+/static/
